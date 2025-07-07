@@ -1,0 +1,79 @@
+{
+  "id": "italiana",
+  "name": "Cocina Italiana Clásica",
+  "description": "Las mejores recetas de la tradición italiana.",
+  "category": "italiana",
+  "author": "Chef Mario Rossi",
+  "cookbookImage": "images/cookbook-italiana.jpg",
+  "tags": ["italiana", "tradicional", "pasta"],
+  "importCount": 0,
+  "recipes": [
+    {
+      "id": "spaghetti-carbonara",
+      "name": "Spaghetti Carbonara",
+      "description": "Pasta con huevo, queso y panceta.",
+      "ingredients": [
+        "200g spaghetti",
+        "100g panceta",
+        "2 huevos",
+        "50g queso parmesano",
+        "Sal y pimienta"
+      ],
+      "instructions": [
+        "Cocinar la pasta.",
+        "Freír la panceta.",
+        "Mezclar huevos y queso.",
+        "Unir todo y servir."
+      ],
+      "prepTime": 30,
+      "servings": 2,
+      "difficulty": "media",
+      "image": "images/carbonara.jpg",
+      "tags": ["pasta", "italiana", "rápida"]
+    },
+    {
+      "id": "pizza-margherita",
+      "name": "Pizza Margherita",
+      "description": "Pizza clásica con tomate, mozzarella y albahaca.",
+      "ingredients": [
+        "Masa de pizza",
+        "Salsa de tomate",
+        "Mozzarella",
+        "Albahaca fresca"
+      ],
+      "instructions": [
+        "Preparar la masa.",
+        "Agregar salsa y queso.",
+        "Hornear y decorar con albahaca."
+      ],
+      "prepTime": 40,
+      "servings": 4,
+      "difficulty": "fácil",
+      "image": "images/pizza-margherita.jpg",
+      "tags": ["pizza", "italiana", "vegetariana"]
+    },
+    {
+      "id": "tiramisu",
+      "name": "Tiramisú",
+      "description": "Postre italiano con café y mascarpone.",
+      "ingredients": [
+        "Bizcochos de soletilla",
+        "Café",
+        "Queso mascarpone",
+        "Huevos",
+        "Azúcar",
+        "Cacao en polvo"
+      ],
+      "instructions": [
+        "Preparar el café.",
+        "Montar la crema de mascarpone.",
+        "Montar capas y enfriar."
+      ],
+      "prepTime": 50,
+      "servings": 6,
+      "difficulty": "media",
+      "image": "images/tiramisu.jpg",
+      "tags": ["postre", "italiana"]
+    }
+  ]
+}
