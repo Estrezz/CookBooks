@@ -27,7 +27,11 @@
       "servings": 4,
       "difficulty": "media",
       "image": "images/tacos-al-pastor.jpg",
-      "tags": ["tacos", "mexicana"]
+      "tags": ["tacos", "mexicana"],
+      "curso": "Principal",
+      "tipoPlato": "Carne",
+      "requiereAcompanamiento": false,
+      "tipoAcompanamiento": ""
     },
     {
       "id": "guacamole",
@@ -49,7 +53,11 @@
       "servings": 2,
       "difficulty": "fácil",
       "image": "images/guacamole.jpg",
-      "tags": ["dip", "mexicana", "vegetariana"]
+      "tags": ["dip", "mexicana", "vegetariana"],
+      "curso": "Acompañamiento",
+      "tipoPlato": "Snack",
+      "requiereAcompanamiento": false,
+      "tipoAcompanamiento": ""
     }
   ]
 }
