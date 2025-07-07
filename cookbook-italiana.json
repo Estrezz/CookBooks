@@ -12,13 +12,13 @@
       "id": "spaghetti-carbonara",
       "name": "Spaghetti Carbonara",
       "description": "Pasta con huevo, queso y panceta.",
-      "ingredients": [
-        "200g spaghetti",
-        "100g panceta",
-        "2 huevos",
-        "50g queso parmesano",
-        "Sal y pimienta"
-      ],
+     "ingredients": [
+        { "name": "spaghetti", "quantity": 200, "unit": "g" },
+        { "name": "panceta", "quantity": 100, "unit": "g" },
+        { "name": "huevos", "quantity": 2, "unit": "ud" },
+        { "name": "queso parmesano", "quantity": 50, "unit": "g" },
+        { "name": "Sal y pimienta", "quantity": "", "unit": "" }
+    ],
       "instructions": [
         "Cocinar la pasta.",
         "Freír la panceta.",
@@ -40,10 +40,10 @@
       "name": "Pizza Margherita",
       "description": "Pizza clásica con tomate, mozzarella y albahaca.",
       "ingredients": [
-        "Masa de pizza",
-        "Salsa de tomate",
-        "Mozzarella",
-        "Albahaca fresca"
+        { "name": "Masa de pizza", "quantity": 1, "unit": "ud" },
+        { "name": "Salsa de tomate", "quantity": 100, "unit": "g" },
+        { "name": "Mozzarella", "quantity": 150, "unit": "g" },
+        { "name": "Albahaca fresca", "quantity": "", "unit": "" }
       ],
       "instructions": [
         "Preparar la masa.",
@@ -65,12 +65,12 @@
       "name": "Tiramisú",
       "description": "Postre italiano con café y mascarpone.",
       "ingredients": [
-        "Bizcochos de soletilla",
-        "Café",
-        "Queso mascarpone",
-        "Huevos",
-        "Azúcar",
-        "Cacao en polvo"
+        { "name": "Bizcochos de soletilla", "quantity": 200, "unit": "g" },
+        { "name": "Café", "quantity": 200, "unit": "ml" },
+        { "name": "Queso mascarpone", "quantity": 250, "unit": "g" },
+        { "name": "Huevos", "quantity": 3, "unit": "ud" },
+        { "name": "Azúcar", "quantity": 100, "unit": "g" },
+        { "name": "Cacao en polvo", "quantity": "", "unit": "" }
       ],
       "instructions": [
         "Preparar el café.",
