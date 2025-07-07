@@ -1,0 +1,55 @@
+{
+  "id": "mexicana",
+  "name": "Sabores de México",
+  "description": "Recetas auténticas mexicanas para todos los días.",
+  "category": "mexicana",
+  "author": "Chef Juan Pérez",
+  "cookbookImage": "images/cookbook-mexicana.jpg",
+  "tags": ["mexicana", "tradicional"],
+  "importCount": 0,
+  "recipes": [
+    {
+      "id": "tacos-al-pastor",
+      "name": "Tacos al Pastor",
+      "description": "Tacos clásicos con carne de cerdo marinada.",
+      "ingredients": [
+        "Tortillas de maíz",
+        "Carne de cerdo",
+        "Piña",
+        "Cilantro",
+        "Cebolla"
+      ],
+      "instructions": [
+        "Marinar la carne.",
+        "Cocinar y servir en tortillas con piña y cilantro."
+      ],
+      "prepTime": 45,
+      "servings": 4,
+      "difficulty": "media",
+      "image": "images/tacos-al-pastor.jpg",
+      "tags": ["tacos", "mexicana"]
+    },
+    {
+      "id": "guacamole",
+      "name": "Guacamole",
+      "description": "Dip de aguacate fresco.",
+      "ingredients": [
+        "Aguacate",
+        "Cilantro",
+        "Cebolla",
+        "Tomate",
+        "Limón",
+        "Sal"
+      ],
+      "instructions": [
+        "Machacar el aguacate.",
+        "Mezclar con el resto de ingredientes."
+      ],
+      "prepTime": 10,
+      "servings": 2,
+      "difficulty": "fácil",
+      "image": "images/guacamole.jpg",
+      "tags": ["dip", "mexicana", "vegetariana"]
+    }
+  ]
+}
