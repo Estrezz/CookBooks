@@ -13,11 +13,11 @@
       "name": "Tacos al Pastor",
       "description": "Tacos clásicos con carne de cerdo marinada.",
       "ingredients": [
-        "Tortillas de maíz",
-        "Carne de cerdo",
-        "Piña",
-        "Cilantro",
-        "Cebolla"
+        { "name": "Tortillas de maíz", "quantity": 8, "unit": "ud" },
+        { "name": "Carne de cerdo", "quantity": 500, "unit": "g" },
+        { "name": "Piña", "quantity": 100, "unit": "g" },
+        { "name": "Cilantro", "quantity": "", "unit": "" },
+        { "name": "Cebolla", "quantity": 1, "unit": "ud" }
       ],
       "instructions": [
         "Marinar la carne.",
@@ -38,12 +38,12 @@
       "name": "Guacamole",
       "description": "Dip de aguacate fresco.",
       "ingredients": [
-        "Aguacate",
-        "Cilantro",
-        "Cebolla",
-        "Tomate",
-        "Limón",
-        "Sal"
+        { "name": "Aguacate", "quantity": 2, "unit": "ud" },
+        { "name": "Cilantro", "quantity": "", "unit": "" },
+        { "name": "Cebolla", "quantity": 0.5, "unit": "ud" },
+        { "name": "Tomate", "quantity": 1, "unit": "ud" },
+        { "name": "Limón", "quantity": 1, "unit": "ud" },
+        { "name": "Sal", "quantity": "", "unit": "" }
       ],
       "instructions": [
         "Machacar el aguacate.",
