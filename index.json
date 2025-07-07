@@ -1,0 +1,20 @@
+[
+  {
+    "id": "italiana",
+    "name": "Cocina Italiana Clásica",
+    "description": "Las mejores recetas de la tradición italiana.",
+    "category": "italiana",
+    "cookbookImage": "images/cookbook-italiana.jpg",
+    "recipeCount": 3,
+    "importCount": 0
+  },
+  {
+    "id": "mexicana",
+    "name": "Sabores de México",
+    "description": "Recetas auténticas mexicanas para todos los días.",
+    "category": "mexicana",
+    "cookbookImage": "images/cookbook-mexicana.jpg",
+    "recipeCount": 2,
+    "importCount": 0
+  }
+]
