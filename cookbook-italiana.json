@@ -29,7 +29,11 @@
       "servings": 2,
       "difficulty": "media",
       "image": "images/carbonara.jpg",
-      "tags": ["pasta", "italiana", "rápida"]
+      "tags": ["pasta", "italiana", "rápida"],
+      "curso": "Principal",
+      "tipoPlato": "Pasta",
+      "requiereAcompanamiento": false,
+      "tipoAcompanamiento": ""
     },
     {
       "id": "pizza-margherita",
@@ -50,7 +54,11 @@
       "servings": 4,
       "difficulty": "fácil",
       "image": "images/pizza-margherita.jpg",
-      "tags": ["pizza", "italiana", "vegetariana"]
+      "tags": ["pizza", "italiana", "vegetariana"],
+      "curso": "Principal",
+      "tipoPlato": "Pasta",
+      "requiereAcompanamiento": false,
+      "tipoAcompanamiento": ""
     },
     {
       "id": "tiramisu",
@@ -73,7 +81,11 @@
       "servings": 6,
       "difficulty": "media",
       "image": "images/tiramisu.jpg",
-      "tags": ["postre", "italiana"]
+      "tags": ["postre", "italiana"],
+      "curso": "Postre",
+      "tipoPlato": "Pasta",
+      "requiereAcompanamiento": false,
+      "tipoAcompanamiento": ""
     }
   ]
 }
